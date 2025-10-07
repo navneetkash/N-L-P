@@ -1,5 +1,3 @@
-# N-L-P
-
 # 🧠 N-L-P
 
 _Uncover Insights, Drive Smarter Language Understanding_
